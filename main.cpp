@@ -27,6 +27,7 @@ int main()
 			}
 			case 3:
 			{
+				vernamCipher();
 				break;
 			}
 			case 4:

@@ -8,5 +8,6 @@ using namespace std;
 int getIntFromUser();
 int shiftCipher();
 int monoalphabaticCipher();
+int vernamCipher();
 
 #endif
