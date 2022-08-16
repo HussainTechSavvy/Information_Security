@@ -2,6 +2,6 @@
 
 int shiftCipher()
 {
-	cout << "Shift Cipher" << endl;
+	cout << "BREAKING THE SHIFT CIPHER" << endl;
 	return 0;
 }

@@ -2,6 +2,6 @@
 
 int vernamCipher()
 {
-	cout << "Vernam Cipher" << endl;
+	cout << "VERNAM CIPHER IN CRYPTOGRAPHY" << endl;
 	return 0;
 }

@@ -2,6 +2,6 @@
 
 int monoalphabaticCipher()
 {
-	cout << "Monoalphabatic Cipher" << endl;
+	cout << "BREAKING THE MONOALPHABATIC CIPHER" << endl;
 	return 0;
 }

@@ -2,6 +2,6 @@
 
 int playfairCipher()
 {
-	cout << "Playfair Cipher" << endl;
+	cout << "THE PLAYFAIR CIPHER" << endl;
 	return 0;
 }

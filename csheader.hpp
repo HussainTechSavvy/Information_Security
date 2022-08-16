@@ -10,5 +10,9 @@ int shiftCipher();
 int monoalphabaticCipher();
 int vernamCipher();
 int playfairCipher();
+int hillCipher();
+int transpositionCipher();
+int rsaAlgorithm();
+int diffieHellmanAlgorithm();
 
 #endif

@@ -36,18 +36,22 @@ int main()
 			}
 			case 5:
 			{
+				hillCipher();
 				break;
 			}
 			case 6:
 			{
+				transpositionCipher();
 				break;
 			}
 			case 7:
 			{
+				rsaAlgorithm();
 				break;
 			}
 			case 8:
 			{
+				diffieHellmanAlgorithm();
 				break;
 			}
 			default:
