@@ -32,6 +32,7 @@ int main()
 			}
 			case 4:
 			{
+				playfairCipher();
 				break;
 			}
 			case 5:

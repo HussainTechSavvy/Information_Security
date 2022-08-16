@@ -9,5 +9,6 @@ int getIntFromUser();
 int shiftCipher();
 int monoalphabaticCipher();
 int vernamCipher();
+int playfairCipher();
 
 #endif

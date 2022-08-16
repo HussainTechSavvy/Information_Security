@@ -1,4 +1,4 @@
-if g++ -o run getIntFromUser.cpp shiftCipher.cpp monoalphabaticCipher.cpp main.cpp; then
+if g++ -o run getIntFromUser.cpp shiftCipher.cpp monoalphabaticCipher.cpp vernamCipher.cpp playfairCipher.cpp main.cpp; then
 #if ./compile.sh then
 ./run
 fi
