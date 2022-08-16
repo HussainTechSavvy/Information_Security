@@ -1,4 +1,5 @@
 #include"csheader.hpp"
+
 int vernamCipher()
 {
 	cout << "Vernam Cipher" << endl;
