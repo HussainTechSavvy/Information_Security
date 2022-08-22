@@ -5,8 +5,7 @@ int main()
 	cout << "Main File Test" << endl;
 	bool exitStatus = true;
 	while(exitStatus)
-	{
-		cout << "Enter Your Input (int): ";	
+	{	
 		switch(getIntFromUser())
 		{
 			case 0:
