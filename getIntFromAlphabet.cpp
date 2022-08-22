@@ -1,6 +1,6 @@
 #include"csheader.hpp"
 
-int getIntFromAlphabet()
+int getIntFromAlphabet(char alphabet)
 {
 	cout << "Get Int From Alphabets" << endl;
 	return 0;
