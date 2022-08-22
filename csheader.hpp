@@ -6,6 +6,7 @@
 using namespace std;
 
 int getIntFromUser();
+int getIntFromAlphabet(char alphabet);
 int shiftCipher();
 int monoalphabaticCipher();
 int vernamCipher();
