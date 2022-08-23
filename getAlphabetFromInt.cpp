@@ -1,7 +1,14 @@
 #include"csheader.hpp"
 
-int getAlphabetFromInt(int integer)
+char getAlphabetFromInt(int integer)
 {
     cout << "Get Alphabet From Int" << endl;
-    return 0;
+    if(integer%26 == 0)
+    {
+        return 'Z';
+    }
+    else
+    {
+        return char((integer%26)+64);
+    }
 }
