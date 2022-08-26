@@ -1,5 +1,5 @@
-#ifndef MY_CLASS_H
-#define MY_CLASS_H
+#ifndef IS_HEADER
+#define IS_HEADER
 
 #include<iostream>
 
