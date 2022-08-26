@@ -16,6 +16,7 @@ int main()
 			}
 			case 1:
 			{
+				cout << getOS() << endl;
 				shiftCipher();
 				break;
 			}

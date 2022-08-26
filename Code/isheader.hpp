@@ -5,6 +5,7 @@
 
 using namespace std;
 
+int getOS();
 void printMenu();
 int getIntFromUser();
 int getIntFromAlphabet(char alphabet);
