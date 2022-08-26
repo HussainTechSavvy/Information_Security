@@ -2,14 +2,15 @@
 
 int main()
 {
-	cout << "Main File Test" << endl;
 	bool exitStatus = true;
 	while(exitStatus)
-	{	
+	{
+		printMenu();
 		switch(getIntFromUser())
 		{
 			case 0:
 			{
+				system("cls");
 				exitStatus = false;
 				break;
 			}

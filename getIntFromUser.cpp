@@ -3,7 +3,7 @@
 int getIntFromUser()
 {
 	int userInput = 0;
-	cout << "Enter Your Input (int): ";
+	cout << "\nEnter Your Input (int): ";
 	cin >> userInput;
 	while(cin.fail())
 	{
