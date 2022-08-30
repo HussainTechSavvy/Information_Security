@@ -7,6 +7,7 @@ using namespace std;
 
 int getOS();
 void printMenu();
+void clearScreen();
 int getIntFromUser();
 int getIntFromAlphabet(char alphabet);
 char getAlphabetFromInt(int integer);

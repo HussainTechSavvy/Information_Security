@@ -3,9 +3,10 @@
 int shiftCipher()
 {
 	bool exitCode = true;
-	system("cls");
+	clearScreen();
 	cout << "\n\n\t\tBREAKING THE SHIFT CIPHER" << endl;
 	cout << "\t\t-------- --- ----- ------" << endl;
+	cout << getOS() << endl;
 
 	while (exitCode)
 	{

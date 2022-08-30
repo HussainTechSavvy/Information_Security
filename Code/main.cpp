@@ -10,13 +10,12 @@ int main()
 		{
 			case 0:
 			{
-				system("cls");
+				clearScreen();
 				exitStatus = false;
 				break;
 			}
 			case 1:
 			{
-				cout << getOS() << endl;
 				shiftCipher();
 				break;
 			}
