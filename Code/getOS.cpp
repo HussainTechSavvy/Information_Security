@@ -6,8 +6,6 @@ int getOS()
     return 1;
     #elif __APPLE__ || __MACH__
 	return 2;
-    //#elif 
-	//return 1;
     #elif _WIN32 || _WIN64
 	return 3;
     #else

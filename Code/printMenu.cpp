@@ -2,7 +2,7 @@
 
 void printMenu()
 {
-    system("cls");
+    clearScreen();
     cout << "\n\n\t\t\t\tInformation Security";
 	cout << "\n\t\t\t\t~~~~~~~~~~~ ~~~~~~~~" << endl;
     cout << "\n\t0: Exit" << endl;
