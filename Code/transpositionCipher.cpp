@@ -2,6 +2,6 @@
 
 int transpositionCipher()
 {
-	cout << "TRANSPOSITION CIPHER TECHNIQUES" << endl;
-	return 0;
+    cout << "TRANSPOSITION CIPHER TECHNIQUES" << endl;
+    return 0;
 }

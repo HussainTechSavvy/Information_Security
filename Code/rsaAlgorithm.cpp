@@ -2,6 +2,6 @@
 
 int rsaAlgorithm()
 {
-	cout << "RSA ALGORITHM" << endl;
-	return 0;
+    cout << "RSA ALGORITHM" << endl;
+    return 0;
 }

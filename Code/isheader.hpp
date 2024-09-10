@@ -1,7 +1,7 @@
 #ifndef IS_HEADER
 #define IS_HEADER
 
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 

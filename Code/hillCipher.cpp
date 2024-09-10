@@ -2,6 +2,6 @@
 
 int hillCipher()
 {
-	cout << "HILL CIPHER" << endl;
-	return 0;
+    cout << "HILL CIPHER" << endl;
+    return 0;
 }
